@@ -19,7 +19,7 @@ ___
 | **✅ Estrutura, Métodos e Interfaces**  | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/structs-methods-and-interfaces) |
 | **✅ Ponteiros e Erros**                | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/pointers-and-errors)               |
 | **✅ Maps**                             | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/maps)                            |
-| **❌ Injeção de Depenência**            | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/dependency-injection)          |
+| **✅ Injeção de Depenência**            | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/dependency-injection)          |
 | **❌ Mocks**                            | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking)                           |
 | **❌ Concorrência**                     | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/concurrency)                    |
 | **❌ Select**                           | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/select)                          |
