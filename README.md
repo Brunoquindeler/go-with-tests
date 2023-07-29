@@ -20,8 +20,8 @@ ___
 | **✅ Ponteiros e Erros**                | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/pointers-and-errors)               |
 | **✅ Maps**                             | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/maps)                            |
 | **✅ Injeção de Depenência**            | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/dependency-injection)          |
-| **❌ Mocks**                            | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking)                           |
-| **❌ Concorrência**                     | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/concurrency)                    |
+| **✅ Mocks**                            | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking)                           |
+| **✅ Concorrência**                     | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/concurrency)                    |
 | **❌ Select**                           | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/select)                          |
 | **❌ Reflexão**                         | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection)                      |
 | **❌ Sync**                             | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/sync)                            |
