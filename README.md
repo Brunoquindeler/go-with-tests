@@ -22,8 +22,8 @@ ___
 | **✅ Injeção de Depenência**            | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/dependency-injection)          |
 | **✅ Mocks**                            | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking)                           |
 | **✅ Concorrência**                     | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/concurrency)                    |
-| **❌ Select**                           | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/select)                          |
-| **❌ Reflexão**                         | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection)                      |
+| **✅ Select**                           | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/select)                          |
+| **✅ Reflexão**                         | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection)                      |
 | **❌ Sync**                             | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/sync)                            |
 | **❌ Contexto**                         | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/context)                        |
 | **❌ Testes Baseados em Propriedades**  | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/roman-numerals)                 |
