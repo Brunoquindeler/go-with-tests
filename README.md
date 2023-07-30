@@ -25,7 +25,7 @@ ___
 | **✅ Select**                           | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/select)                          |
 | **✅ Reflexão**                         | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection)                      |
 | **✅ Sync**                             | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/sync)                            |
-| **❌ Contexto**                         | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/context)                        |
+| **✅ Contexto**                         | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/context)                        |
 | **❌ Testes Baseados em Propriedades**  | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/roman-numerals)                 |
 | **❌ Biblioteca Matemática**                         | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/math)                        |
 | **❌ Lendo Arquivos**                         | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reading-files)                        |
