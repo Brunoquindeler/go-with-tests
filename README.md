@@ -24,7 +24,7 @@ ___
 | **✅ Concorrência**                     | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/concurrency)                    |
 | **✅ Select**                           | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/select)                          |
 | **✅ Reflexão**                         | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection)                      |
-| **❌ Sync**                             | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/sync)                            |
+| **✅ Sync**                             | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/sync)                            |
 | **❌ Contexto**                         | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/context)                        |
 | **❌ Testes Baseados em Propriedades**  | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/roman-numerals)                 |
 | **❌ Biblioteca Matemática**                         | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/math)                        |
