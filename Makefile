@@ -12,3 +12,8 @@ gitall:
 	@git add .
 	@git commit -m "$(m)"
 	@git push -u origin main
+
+gensvg:
+	@echo Generating SVG %time%
+	@go build -o .\cmd\clockface\clockface.exe .\cmd\clockface
+	@.\cmd\clockface\clockface.exe > .\cmd\clockface\clock.svg
