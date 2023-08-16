@@ -35,7 +35,7 @@ func TestSVGWriterAtMidnight(t *testing.T) {
 	tm := time.Date(1337, time.January, 1, 0, 0, 0, 0, time.UTC)
 	b := bytes.Buffer{}
 
-	SVGWriter(&b, tm)
+	Write(&b, tm)
 
 	svg := SVG{}
 
@@ -70,7 +70,7 @@ func TestSVGWriterSecondHand(t *testing.T) {
 	for _, c := range cases {
 		t.Run(testName(c.time), func(t *testing.T) {
 			b := bytes.Buffer{}
-			SVGWriter(&b, c.time)
+			Write(&b, c.time)
 
 			svg := SVG{}
 			xml.Unmarshal(b.Bytes(), &svg)
@@ -97,7 +97,7 @@ func TestSVGWriterMinuteHand(t *testing.T) {
 		t.Run(testName(c.time), func(t *testing.T) {
 			b := bytes.Buffer{}
 
-			SVGWriter(&b, c.time)
+			Write(&b, c.time)
 
 			svg := SVG{}
 			xml.Unmarshal(b.Bytes(), &svg)
@@ -124,7 +124,7 @@ func TestSVGWriterHourHand(t *testing.T) {
 		t.Run(testName(c.time), func(t *testing.T) {
 			b := bytes.Buffer{}
 
-			SVGWriter(&b, c.time)
+			Write(&b, c.time)
 
 			svg := SVG{}
 			xml.Unmarshal(b.Bytes(), &svg)
