@@ -5,3 +5,7 @@
 *.out
 
 *.svg
+
+*.txt
+
+!*approved.txt
