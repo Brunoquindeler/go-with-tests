@@ -31,7 +31,7 @@ ___
 | **✅ Lendo Arquivos**                   | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reading-files)                              |
 | **✅ Templates HTML**                   | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/html-templates)                             |
 | **✅ Genéricos**                        | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/generics)                                   |
-| **❌ Arrays e Slices com Genéricos**    | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/revisiting-arrays-and-slices-with-generics) |
+| **✅ Arrays e Slices com Genéricos**    | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/revisiting-arrays-and-slices-with-generics) |
 
 ___
 
