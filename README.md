@@ -32,24 +32,3 @@ ___
 | **✅ Templates HTML**                   | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/html-templates)                             |
 | **✅ Genéricos**                        | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/generics)                                   |
 | **✅ Arrays e Slices com Genéricos**    | [**Link**](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/revisiting-arrays-and-slices-with-generics) |
-
-___
-
-## ⚡️ Fundamentos de Teste⚡️
-|                 Módulo                    |                                                URL                                                     |
-|:------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| **❌ Introdução aos Testes de Aceitação** | [**Link**](https://quii.gitbook.io/learn-go-with-tests/testing-fundamentals/intro-to-acceptance-tests) |
-| **❌ Testes de Aceitação de Escala**      | [**Link**](https://quii.gitbook.io/learn-go-with-tests/testing-fundamentals/scaling-acceptance-tests)  |
-
-___
-
-## ⚡️ Criando uma Aplicação ⚡️
-|                 Módulo                 |                                                URL                                       |
-|:---------------------------------------|------------------------------------------------------------------------------------------|
-| **❌ Introdução**                     | [**Link**](https://quii.gitbook.io/learn-go-with-tests/build-an-application/app-intro)    |
-| **❌ Servidor HTTP**                  | [**Link**](https://quii.gitbook.io/learn-go-with-tests/build-an-application/http-server)  |
-| **❌ JSON, Roteamento e Aninhamento** | [**Link**](https://quii.gitbook.io/learn-go-with-tests/build-an-application/json)         |
-| **❌ IO e Sorting**                   | [**Link**](https://quii.gitbook.io/learn-go-with-tests/build-an-application/io)           |
-| **❌ CLI e Estrutura de Pacotes**     | [**Link**](https://quii.gitbook.io/learn-go-with-tests/build-an-application/command-line) |
-| **❌ Tempo**                          | [**Link**](https://quii.gitbook.io/learn-go-with-tests/build-an-application/time)         |
-| **❌ WebSockets**                     | [**Link**](https://quii.gitbook.io/learn-go-with-tests/build-an-application/websockets)   |
